@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msicuro33
 - 👀 I’m interested in Character rigging and tools development for games
-- 🌱 I’m currently learning Intermediate-Advanced character rigging in Maya, using Python, PyMel & PyQt in Maya
+- 🌱 I’m currently learning Intermediate-Advanced character rigging in Maya, using Python, PyMel & PyQt/PySide in Maya
 - 💞️ I’m looking to collaborate on projects that need rigs
 - 📫 How to reach me: msicuro33@gmail.com
 
